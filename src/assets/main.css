@@ -15,7 +15,7 @@ a,
   padding: 3px;
 }
 h1.green{
-  color: crimson;
+  color: rgb(199, 15, 209);
 }
 
 @media (hover: hover) {
